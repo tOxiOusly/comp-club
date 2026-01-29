@@ -10,3 +10,9 @@
 ```bash
 cmake -S . -B build
 cmake --build build
+```
+
+## Run
+```bash
+build/compclub <input_file>
+```
